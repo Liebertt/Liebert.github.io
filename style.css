@@ -46,8 +46,9 @@ table {
 
 .banner {
     width:100%;
+    margin-top: 1px;
     background-color: #007239 ;
-    height: 30px;
+    height: 45px;
     font-family: 'Playfair Display', serif;
 
 }
