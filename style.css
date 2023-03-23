@@ -45,15 +45,28 @@ table {
 }
 
 .banner {
-    width:100%;
-    margin-top: 1px;
-    background-color: #007239 ;
-    height: 45px;
-    font-family: 'Playfair Display', serif;
-    color: white;
-
+    position: absolute;
+    width: 1440px;
+    height: 82px;
+    left: 0px;
+    top: 0px;
+    
 }
 .h2-banner {
-    color: white;
+    position: absolute;
+    width: 507px;
+    height: 45.92px;
+    left: 158px;
+    top: 18px;
+
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
     text-align: center;
+
+color: #FFFFFF;
 }
